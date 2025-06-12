@@ -55,8 +55,8 @@ Collaborators: Joshua Aflleje & Jack Oebker (Arizona State University)
 ## 🧾 Files
 
 - 📄 [`Final_Project_Paper.pdf`](Final_Project_Paper.pdf) — Full report with visuals
-- 📘 [`FinalProject_Binary_Classifier.html`](FinalProject_Binary_Classifier.ipynb) — MLP code & results
-- 📘 [`FinalProject_Multi_Classifier.html`](FinalProject_Multi_Classifier.ipynb) — CNN code & results
+- 📘 [`FinalProject_Binary_Classifier.ipynb`](FinalProject_Binary_Classifier.ipynb) — MLP code & results
+- 📘 [`FinalProject_Multi_Classifier.ipynb`](FinalProject_Multi_Classifier.ipynb) — CNN code & results
 
 ---
 
